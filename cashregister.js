@@ -22,7 +22,7 @@ var note5 = document.querySelector("#note5");
 
 var note1 = document.querySelector("#note1");
 
-
+var body = document.querySelector("#body");
 
 
 
